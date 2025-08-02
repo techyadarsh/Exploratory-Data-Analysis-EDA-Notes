@@ -24,16 +24,16 @@
 - Exploratory data analysis is important for business process because we are preparing dataset for deep thorough analysis that will detect your business problem.
 - EDA help to build a quick and dirty model, or a baseline model, which can serve as a comparison against later models that you will build.
     
-    ![EDA-Process Image.jpg](EDA-Process_Image.jpg)
+    ![EDA-Process Image.jpg](images/EDA-Process_Image.jpg)
     
 
 # 2. Visualization
 
-![Screenshot (493).png](Screenshot_(493).png)
+![Screenshot (493).png](images/Screenshot_(493).png)
 
 # 3. Steps involved in EDA:-
 
-![Screenshot (494).png](Screenshot_(494).png)
+![Screenshot (494).png](images/Screenshot_(494).png)
 
 ## 1. Data Sourcing
 
@@ -116,7 +116,7 @@ Add extra features using scaling
 | C | 75 | 75/85 = 0.88 | 168 | 168/170 = 0.98 |
 | D | 70 | 70/85 = 0.82 | 170 | 170/170 = 1 |
 
-![Screenshot (499).png](Screenshot_(499).png)
+![Screenshot (499).png](images/Screenshot_(499).png)
 
 **How feature scaling affects the actual values**, here’s a breakdown with **examples** using raw values and how they change after applying different **scaling techniques**.
 
@@ -228,13 +228,13 @@ $$
 
 ---
 
-![Screenshot (500).png](Screenshot_(500).png)
+![Screenshot (500).png](images/Screenshot_(500).png)
 
-![Screenshot (501).png](Screenshot_(501).png)
+![Screenshot (501).png](images/Screenshot_(501).png)
 
 ### 3.Outlier Treatment
 
-![Screenshot (502).png](Screenshot_(502).png)
+![Screenshot (502).png](images/Screenshot_(502).png)
 
 1. Boxplot Outliers
     
@@ -242,15 +242,15 @@ $$
     
 2. Histogram Outliers
     
-    ![image.png](image%201.png)
+    ![image.png](images/image%201.png)
     
 3. Scatter plot Outliers
     
-    ![image.png](image%202.png)
+    ![image.png](images/image%202.png)
     
 4. Z-score Outliers
     
-    ![image.png](image%203.png)
+    ![image.png](images/image%203.png)
     
     A normal distribution is shown below and it is 
     
