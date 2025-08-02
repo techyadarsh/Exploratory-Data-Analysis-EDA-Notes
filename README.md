@@ -238,7 +238,7 @@ $$
 
 1. Boxplot Outliers
     
-    ![image.png](image.png)
+    ![image.png](images/image.png)
     
 2. Histogram Outliers
     
