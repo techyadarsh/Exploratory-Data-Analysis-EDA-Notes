@@ -1,5 +1,6 @@
-# Exploratory-Data-Analysis-EDA-Notes
-Exploratory Data Analysis is an approach to analyze the datasets to summarize their main characteristics in form of visual methods.
+[Exploratory Data Analysis (EDA) 240b30c7aa6c80aeb9e9e5782bad2827.md](https://github.com/user-attachments/files/21560843/Exploratory.Data.Analysis.EDA.240b30c7aa6c80aeb9e9e5782bad2827.md)
+# Exploratory Data Analysis (EDA)
+
 1. What is Exploratory Data analysis?  Why EDA is important?
 2. Visualization
     - Important charts for visualization.
@@ -23,17 +24,16 @@ Exploratory Data Analysis is an approach to analyze the datasets to summarize th
 - Exploratory data analysis is important for business process because we are preparing dataset for deep thorough analysis that will detect your business problem.
 - EDA help to build a quick and dirty model, or a baseline model, which can serve as a comparison against later models that you will build.
     
-    ![EDA-Process Image.jpg](attachement:Exploratory-Data-Analysis-EDA-Notes/images/EDA-Process Image.jpg)
-    
+    ![EDA-Process Image.jpg](EDA-Process_Image.jpg)
     
 
 # 2. Visualization
 
-![Screenshot (493).png](attachment:bcff6859-5ba4-46cd-9bb7-db8b6d977210:Screenshot_(493).png)
+![Screenshot (493).png](Screenshot_(493).png)
 
 # 3. Steps involved in EDA:-
 
-![Screenshot (494).png](attachment:2d1a367f-4c14-41e1-ba07-c0e71ff4fba3:Screenshot_(494).png)
+![Screenshot (494).png](Screenshot_(494).png)
 
 ## 1. Data Sourcing
 
@@ -116,7 +116,7 @@ Add extra features using scaling
 | C | 75 | 75/85 = 0.88 | 168 | 168/170 = 0.98 |
 | D | 70 | 70/85 = 0.82 | 170 | 170/170 = 1 |
 
-![Screenshot (499).png](attachment:155d4a2b-1bae-4c7e-9bd7-87ae626b520f:Screenshot_(499).png)
+![Screenshot (499).png](Screenshot_(499).png)
 
 **How feature scaling affects the actual values**, here’s a breakdown with **examples** using raw values and how they change after applying different **scaling techniques**.
 
@@ -228,29 +228,29 @@ $$
 
 ---
 
-![Screenshot (500).png](attachment:78d3c659-86d3-4ff3-8cc8-2014462c58e2:Screenshot_(500).png)
+![Screenshot (500).png](Screenshot_(500).png)
 
-![Screenshot (501).png](attachment:360c3ff0-073f-4a5c-8fa0-3103660863a6:Screenshot_(501).png)
+![Screenshot (501).png](Screenshot_(501).png)
 
 ### 3.Outlier Treatment
 
-![Screenshot (502).png](attachment:952fd9da-223f-44c9-b3cb-68a5c258b9da:Screenshot_(502).png)
+![Screenshot (502).png](Screenshot_(502).png)
 
 1. Boxplot Outliers
     
-    ![image.png](attachment:b94d9096-7a20-4056-ba76-0fd2d11c369c:image.png)
+    ![image.png](image.png)
     
 2. Histogram Outliers
     
-    ![image.png](attachment:dd2bd049-1526-4552-96c8-e94a113101a9:image.png)
+    ![image.png](image%201.png)
     
 3. Scatter plot Outliers
     
-    ![image.png](attachment:df3610a3-3513-4477-911e-4f5bde976e99:image.png)
+    ![image.png](image%202.png)
     
 4. Z-score Outliers
     
-    ![image.png](attachment:c6b8269b-fae8-4112-94f6-6671f74c158f:image.png)
+    ![image.png](image%203.png)
     
     A normal distribution is shown below and it is 
     
