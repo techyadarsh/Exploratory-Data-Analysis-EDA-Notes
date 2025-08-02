@@ -242,7 +242,7 @@ $$
     
 2. Histogram Outliers
     
-    ![image.png](images/image%201.png)
+    ![image.png](images/image1.png)
     
 3. Scatter plot Outliers
     
