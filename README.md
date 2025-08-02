@@ -23,7 +23,7 @@ Exploratory Data Analysis is an approach to analyze the datasets to summarize th
 - Exploratory data analysis is important for business process because we are preparing dataset for deep thorough analysis that will detect your business problem.
 - EDA help to build a quick and dirty model, or a baseline model, which can serve as a comparison against later models that you will build.
     
-    ![EDA-Process Image.jpg](attachement:https://github.com/techyadarsh/Exploratory-Data-Analysis-EDA-Notes/blob/a8471d861542c927b6f7173478e44fd46975e5cc/images/EDA-Process%20Image.jpg)
+    ![EDA-Process Image.jpg](attachement:Exploratory-Data-Analysis-EDA-Notes/images/EDA-Process Image.jpg)
     
     
 
