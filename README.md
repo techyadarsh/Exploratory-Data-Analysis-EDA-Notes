@@ -251,7 +251,9 @@ $$
     
     ![image.png](images/image3.png)
     
-    A normal distribution is shown below and it is 
+    A normal distribution is shown below and it is
+For more Notes content visit https://techyadarsh.in/
+
     
     - It is estimated that 68% of the data points lie between +/- 1 standard deviation.
     - 95% of the data points lie between +/- 2 standard deviations.
