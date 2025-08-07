@@ -252,7 +252,7 @@ $$
     ![image.png](images/image3.png)
     
     A normal distribution is shown below and it is
-For more Notes content visit https://techyadarsh.in/
+
 
     
     - It is estimated that 68% of the data points lie between +/- 1 standard deviation.
@@ -260,3 +260,6 @@ For more Notes content visit https://techyadarsh.in/
     - 99.7% of the data points lie between +/- 3 standard deviations.
     
     Z score and Outliers: If the Z score of a data point is more than 3, it indicates that the data point is quite different from the othe2r data points. Such a data point can be an outlier. For example, in a survey, it was asked how many children a person had. Suppose the data obtained from people.
+
+
+For more Notes content visit https://techyadarsh.in/
